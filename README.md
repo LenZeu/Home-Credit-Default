@@ -16,5 +16,7 @@ Other Techniques used:
 
 Project presentation can be found in poster
 
+Dataset can be found here: https://www.kaggle.com/c/home-credit-default-risk/data
+
 
 
