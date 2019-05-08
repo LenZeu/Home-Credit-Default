@@ -14,4 +14,7 @@ Other Techniques used:
 - elastic net regularization
 
 
+Project presentation can be found in poster
+
+
 
